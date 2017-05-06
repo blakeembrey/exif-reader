@@ -1,5 +1,7 @@
 # exif-reader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/exif-reader.svg)](https://greenkeeper.io/)
+
 A small EXIF image metadata reader.
 
 ## Usage
